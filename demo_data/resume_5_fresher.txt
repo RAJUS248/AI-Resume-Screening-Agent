@@ -1,0 +1,31 @@
+SAMUEL GREEN
+Email: samuel.green@email.com | Phone: +1 (555) 016-8211
+LinkedIn: linkedin.com/in/fresher-sam | GitHub: github.com/sam-fresher/
+Portfolio: 
+
+PROFESSIONAL SUMMARY:
+Enthusiastic and highly motivated recent Computer Science graduate seeking an entry-level Software Engineer position. Possesses strong foundational knowledge of modern software engineering principles, algorithms, and clean code practices. Proficient in TypeScript, React, Tailwind CSS, and Python with academic project experience in building full stack web applications.
+
+TECHNICAL SKILLS:
+- Languages: TypeScript, JavaScript, Python, Java, HTML5, CSS3, SQL
+- Frontend: React.js, Tailwind CSS, Redux
+- Backend: Node.js, Express, Flask
+- Databases: PostgreSQL, SQLite
+- Developer Tools: Git, GitHub, VS Code, Postman, Linux
+
+PROFESSIONAL EXPERIENCE:
+Software Engineering Intern | TechStart Academy | Jun 2023 - Aug 2023
+- Assisted in developing and testing interactive web modules using React and Tailwind CSS.
+- Participated in daily stand-up meetings, sprint planning, and team code reviews.
+- Resolved over 15 front-end UI bugs, improving mobile responsiveness of the core application.
+- Wrote clean, well-documented code following company design standards.
+
+ACADEMIC HISTORY:
+B.S. in Computer Science | Boston University | Graduated: May 2024 (GPA: 3.65)
+
+CERTIFICATIONS:
+- Meta Front-End Developer Professional Certificate
+
+PROJECTS & SCHOLARLY CONTRIBUTIONS:
+- DevMatch Forum (Academic Capstone): Built a responsive developer discussion forum using React, Tailwind CSS, Express, and SQLite. Implemented JWT user authentication and user profile customization.
+- Recipe Finder: Developed a mobile-friendly recipe search tool using JavaScript and a third-party REST API.

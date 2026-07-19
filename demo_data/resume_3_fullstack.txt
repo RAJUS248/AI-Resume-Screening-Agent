@@ -1,0 +1,37 @@
+MARCUS THORNE
+Email: marcus.thorne@email.com | Phone: +1 (555) 018-9944
+LinkedIn: linkedin.com/in/marcusfullstack/ | GitHub: github.com/marcusdev
+Portfolio: http://marcus-codes.web.app
+
+PROFESSIONAL SUMMARY:
+Dynamic Full Stack Developer with 5 years of experience delivering robust web applications, blending modern user interfaces (React, Tailwind CSS) with efficient and secure backend services (Node.js, Express, TypeScript, FastAPI). Proven success implementing GenAI features and integrations.
+
+TECHNICAL SKILLS:
+- Languages: TypeScript, JavaScript, Python, HTML/CSS, SQL
+- Frontend: React.js, Tailwind CSS, Next.js, Redux, D3.js, Recharts
+- Backend & APIs: Node.js, Express, FastAPI, WebSockets, GraphQL, REST
+- Databases: PostgreSQL, MongoDB, Redis, Pinecone
+- Tools & Cloud: Docker, AWS (S3, Lambda), Git, Github Actions
+
+PROFESSIONAL EXPERIENCE:
+Senior Full Stack Developer | AppForge Labs | Aug 2022 - Present
+- Designed and built a real-time analytics dashboard using React, Tailwind CSS, and Recharts, improving user retention by 25%.
+- Implemented an AI chatbot interface powered by Gemini API and LangChain, processing over 50,000 queries daily with 98% uptime.
+- Developed scalable serverless REST APIs using Node.js, TypeScript, and AWS Lambda, saving 45% in server maintenance costs.
+- Guided structural frontend architecture, implementing custom hook states and optimizing bundle sizes for 5x faster loads.
+
+Full Stack Software Engineer | TechHive Systems | Jul 2020 - Jul 2022
+- Created interactive data visualizations using D3.js for cloud infrastructure utilization metrics.
+- Developed and maintained multiple responsive client-facing websites using React and Next.js, fully optimized for mobile platforms.
+- Set up automated testing workflows with Jest and GitHub Actions, boosting test coverage to 85%.
+
+ACADEMIC HISTORY:
+B.S. in Software Engineering | University of Michigan | Graduated: 2020 (GPA: 3.91)
+
+CERTIFICATIONS:
+- React Nanodegree - Udacity
+- Professional Developer Certification in Node.js
+
+PROJECTS & SCHOLARLY CONTRIBUTIONS:
+- GeoInsight Dashboard: Interactive visual dashboard displaying geolocalized demographic data using React, D3.js, and Leaflet.
+- AI Resume Parser: Open-source project on GitHub utilizing TypeScript and LLM APIs to extract sections of resume profiles.

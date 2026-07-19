@@ -1,0 +1,37 @@
+EMILY MILLER
+Email: emily.miller@email.com | Phone: +1 (555) 014-5312
+LinkedIn: linkedin.com/in/emilydata | GitHub: github.com/emily-stats
+Portfolio: emilystats.com
+
+PROFESSIONAL SUMMARY:
+Analytical and result-oriented Data Scientist with 4 years of experience delivering machine learning models, statistical analyses, and business intelligence. Skilled in Python, R, SQL, and data visualization tools, with a focus on predictive modeling and customer segmentation.
+
+TECHNICAL SKILLS:
+- Languages: Python, R, SQL, MATLAB
+- Modeling & Libraries: Pandas, NumPy, Scikit-learn, SciPy, Statsmodels, XGBoost
+- Visualization: Tableau, Seaborn, Matplotlib, Plotly
+- Databases: MySQL, Snowflake, PostgreSQL
+- Tools: Jupyter, Git, Docker, Apache Spark
+
+PROFESSIONAL EXPERIENCE:
+Data Scientist | Apex Financial Group | Sep 2021 - Present
+- Created a predictive customer churn model using XGBoost and Scikit-learn, saving over $1.2M in annual retention expenditures.
+- Formulated and executed continuous A/B tests for user landing pages, driving a 14% improvement in conversion ratios.
+- Designed automated Tableau dashboards querying Snowflake database, providing daily key performance metrics to executives.
+- Performed rigorous statistical analysis and regression modeling to identify core market and demographic trends.
+
+Data Analyst | Insight Analytics Partners | Jun 2020 - Aug 2021
+- Cleaned, normalized, and engineered features from multi-source customer datasets using Pandas and SQL queries.
+- Created monthly market intelligence reports utilizing advanced statistical tests (t-tests, ANOVA).
+- Managed data warehouse ETL pipelines, optimizing ingestion speeds by 20%.
+
+ACADEMIC HISTORY:
+B.S. in Statistics & Data Science | University of Chicago | Graduated: 2020 (GPA: 3.75)
+
+CERTIFICATIONS:
+- IBM Data Science Professional Certificate
+- Certified Tableau Desktop Specialist
+
+PROJECTS & SCHOLARLY CONTRIBUTIONS:
+- Housing Price Forecaster: Built a detailed regression pipeline evaluating municipal real estate trends in major cities.
+- Customer Segmenter: Unsupervised learning repository on GitHub utilizing K-Means Clustering and PCA on retail sales records.

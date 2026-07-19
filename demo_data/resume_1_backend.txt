@@ -1,0 +1,37 @@
+ALEX MERCER
+Email: alex.mercer@email.com | Phone: +1 (555) 019-2834
+LinkedIn: linkedin.com/in/alexbackend | GitHub: github.com/alexbackend
+Portfolio: alexbackend.io/portfolio
+
+PROFESSIONAL SUMMARY:
+Highly experienced Python Backend Developer with 6 years of industry experience specializing in scalable backend APIs, database architecture, and microservices. Expert in FastAPI, Django, and PostgreSQL with a strong track record of designing high-availability APIs for enterprise cloud applications.
+
+TECHNICAL SKILLS:
+- Languages: Python, SQL, JavaScript, Go, HTML5, CSS3
+- Backend Frameworks: FastAPI, Django, Flask, Express, Node.js
+- Databases: PostgreSQL, MongoDB, Redis, MySQL
+- Cloud & DevOps: AWS (EC2, RDS, S3), Docker, Kubernetes, CI/CD, Git
+- Methodologies: Agile/Scrum, REST API Design, Microservices Architecture
+
+PROFESSIONAL EXPERIENCE:
+Senior Backend Engineer | CloudScale Solutions | Jan 2023 - Present
+- Designed and built high-performance microservices using FastAPI and Docker, reducing API response latency by 35%.
+- Structured complex database schemas in PostgreSQL, utilizing indexing and query optimization to handle 10M+ daily records.
+- Integrated third-party security, payment (Stripe), and messaging queues (RabbitMQ/Celery) into core transaction workflows.
+- Led a team of 3 junior developers, maintaining code standards through code reviews and mentoring.
+
+Python Backend Developer | ByteForce Technologies | Aug 2020 - Dec 2022
+- Developed RESTful API endpoints for an e-commerce platform using Django and Django Rest Framework.
+- Migrated legacy monolithic services to Python-based microservices, improving deployment speed and fault tolerance.
+- Maintained CI/CD pipelines in Gitlab, automating container builds and staging environment deployments.
+
+ACADEMIC HISTORY:
+B.S. in Computer Science | University of Washington | Graduated: 2020 (GPA: 3.82)
+
+CERTIFICATIONS:
+- AWS Certified Solutions Architect - Associate
+- Professional Scrum Master (PSM I)
+
+PROJECTS & SCHOLARLY CONTRIBUTIONS:
+- Scalable Queueing System: Built a highly parallel background tasks orchestrator in Python using Redis and asyncio, open-sourced on GitHub.
+- API Gateway Proxy: Developed a lightweight API gateway with rate-limiting and JWT authentication using Go and Redis.

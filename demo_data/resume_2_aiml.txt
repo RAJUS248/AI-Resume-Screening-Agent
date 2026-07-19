@@ -1,0 +1,38 @@
+SOPHIA CHEN
+Email: sophia.chen@email.com | Phone: +1 (555) 012-7489
+LinkedIn: www.linkedin.com/in/sophiaai | GitHub: github.com/sophia-ml-ai/research
+Portfolio: https://sophia-ai.github.io
+
+PROFESSIONAL SUMMARY:
+Innovative AI/ML Engineer with over 5 years of experience building machine learning systems, deep learning models, and production LLM applications. Proficient in PyTorch, NLP, Vector Databases, and Retrieval-Augmented Generation (RAG). Highly skilled in deploying scalable AI pipelines to AWS and GCP.
+
+TECHNICAL SKILLS:
+- Languages: Python, SQL, C++, Bash
+- AI/ML Frameworks: PyTorch, TensorFlow, Hugging Face, Scikit-learn
+- LLMs & GenAI: Gemini API, OpenAI API, LangChain, LlamaIndex, RAG, Prompt Engineering
+- Databases: Pinecone, Milvus, PostgreSQL, Redis
+- Cloud & MLOps: AWS, Google Cloud Platform (GCP), MLflow, Docker, Kubernetes, Git
+
+PROFESSIONAL EXPERIENCE:
+Lead AI Engineer | Cortex Intelligent Systems | Mar 2022 - Present
+- Engineered a generative search engine using LangChain and Gemini API, leveraging RAG architectures to query 100k+ PDF documents with Pinecone.
+- Developed and fine-tuned BERT and LLama-based models for custom domain-specific sentiment and entity extraction, boosting accuracy by 18%.
+- Built highly optimized inference pipelines inside AWS SageMaker, decreasing container invocation overhead by 40%.
+- Designed and maintained custom LLM prompt evaluation frameworks to measure output semantic drift.
+
+Machine Learning Research Engineer | Nexus Labs | Oct 2020 - Feb 2022
+- Conducted deep learning research on multi-modal models for speech and vision analysis using PyTorch and Hugging Face Transformers.
+- Prepared high-quality data pipelines handling raw text, images, and audio, feeding automated preprocessing architectures.
+- Published research on neural networks optimization techniques for edge-device compute environments.
+
+ACADEMIC HISTORY:
+M.S. in Intelligent Systems & Machine Learning | Stanford University | Graduated: 2020
+B.S. in Computer Science & Mathematics | UC Berkeley | Graduated: 2018
+
+CERTIFICATIONS:
+- Google Cloud Certified Professional Machine Learning Engineer
+- DeepLearning.AI Generative AI with LLMs specialization
+
+PROJECTS & SCHOLARLY CONTRIBUTIONS:
+- OpenRAG-Kernel: A lightweight, modular semantic indexing search middleware built using LangChain, Hugging Face, and FastAPI.
+- Neural-Pruner-CLI: Open-source PyTorch command-line tool to perform structured pruning on neural network weight representations.

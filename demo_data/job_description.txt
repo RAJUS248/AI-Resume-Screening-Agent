@@ -1,0 +1,31 @@
+Title: Senior Full Stack AI Engineer
+
+Role Overview:
+We are seeking a talented Senior Full Stack AI Engineer to join our growing engineering team. In this role, you will design, build, and deploy intelligent web applications, integrating modern frontend architectures with powerful machine learning algorithms and LLM services. You will be responsible for creating seamless user experiences, building highly performant Node.js or Python backend APIs, and deploying models to cloud environments.
+
+Required Technical Skills:
+- Programming Languages: Python, TypeScript, JavaScript
+- Frontend: React.js, Tailwind CSS, Next.js, Redux
+- Backend & APIs: Node.js, Express, FastAPI, REST APIs, WebSockets
+- Database & Storage: PostgreSQL, Redis, MongoDB, Pinecone / Vector Databases
+- AI & Machine Learning: LLM integrations (Gemini API, OpenAI API), PyTorch, Hugging Face, LangChain
+- Cloud & DevOps: Docker, AWS (S3, EC2), CI/CD pipelines, Git
+
+Preferred Technical Skills:
+- Experience with Google Cloud Platform (GCP) or Firebase
+- Knowledge of RAG (Retrieval-Augmented Generation) architectures
+- Familiarity with D3.js or Recharts for interactive analytics visualization
+
+Education Requirement:
+Bachelor's or Master's degree in Computer Science, engineering, or a related technical field.
+
+Minimum Experience:
+4+ years of professional software engineering experience, with at least 1-2 years working with machine learning models or LLM integrations in production.
+
+Responsibilities:
+- Build and maintain responsive web applications using React and Tailwind CSS.
+- Design, implement, and secure robust API services using Express or FastAPI.
+- Implement Retrieval-Augmented Generation (RAG) and orchestrate LLM workflows using frameworks like LangChain.
+- Collaborate with product designers and backend engineers to integrate advanced AI features.
+- Optimize application performance and ensure high availability of services.
+- Write clean, modular, and well-tested code, contributing to continuous improvement of deployment pipelines.

@@ -6,6 +6,35 @@ Designed as an end-to-end AI Engineering project, this application demonstrates 
 
 ---
 
+Designed as an end-to-end AI Engineering project, this application demonstrates modern backend development, AI integration, semantic search, responsive frontend design, and explainable AI.
+
+---
+
+## 🚀 Live Demo
+
+### 🌐 Google AI Studio App
+
+Try the live application here:
+
+**https://ai.studio/apps/bc091fa0-ac41-4d44-a30b-13e84350a668**
+
+---
+
+## 📸 Application Preview
+
+<img width="1917" height="841" alt="Screenshot 2026-07-19 191801" src="https://github.com/user-attachments/assets/3e412d51-2b56-4e99-bb2c-d41a8a3270bc" />
+
+<img width="1302" height="745" alt="Screenshot 2026-07-19 190055" src="https://github.com/user-attachments/assets/e339e933-b75e-4109-849d-8c1188d8eda5" />
+
+<img width="1915" height="850" alt="Screenshot 2026-07-19 191810" src="https://github.com/user-attachments/assets/41995a17-d9cd-4664-ba72-9de08607f228" />
+
+<img width="1917" height="852" alt="Screenshot 2026-07-19 191821" src="https://github.com/user-attachments/assets/8031f017-ac4c-4b9a-ae3d-28f80cc49d27" />
+
+<img width="1906" height="855" alt="Screenshot 2026-07-19 191832" src="https://github.com/user-attachments/assets/4f410021-afe1-4f9a-a894-e046706f9477" />
+
+<img width="1890" height="447" alt="Screenshot 2026-07-19 191951" src="https://github.com/user-attachments/assets/b6564d9f-2c9b-4a83-8b99-e7c43e8ad4ce" />
+
+
 ## ✨ Features
 
 ### 📄 Job Description Processing
